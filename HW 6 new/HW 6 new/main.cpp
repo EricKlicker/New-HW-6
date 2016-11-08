@@ -18,6 +18,8 @@ using namespace std;
 
 int main()
 {
+    
+    cout <<"ahhhhhhhhhh" << endl;
     //Excercise 13.1
     ofstream output;
     
